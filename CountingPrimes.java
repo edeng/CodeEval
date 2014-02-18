@@ -17,9 +17,8 @@ public class CountingPrimes {
 			int count = 0;
 			
 			for(int i = first; i <= second; i++) {
-				if (isPrime(i)) {
-					count++; 
-				}
+				if (isPrime(i))
+					count++;
 			}
 			
 			System.out.println(count);
@@ -29,9 +28,8 @@ public class CountingPrimes {
     // returns whether the given integer is prime
     public static boolean isPrime(int n) {
     	for (int i = 2; i <= n / 2; i++) {
-    		if (n % i == 0) {
+    		if (n % i == 0) 
     			return false;
-    		}
     	}
     	return true;
     }
