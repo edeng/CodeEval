@@ -33,7 +33,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Swap Case** - Swap case in a string. [[Java]](https://github.com/edeng/CodeEval/blob/master/SwapCase.java)
 
-**Even Numbers** - Determine if a number is even or not.	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java)
+**Even Numbers** - Determine if a number is even or not.	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/EvenNumbers.py)
 
 **Longest Word** - Get the longest word in a sentence. [[Java]](https://github.com/edeng/CodeEval/blob/master/LongestWord.java)
 
