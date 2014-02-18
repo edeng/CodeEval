@@ -2,6 +2,11 @@ CodeEval
 ========
 Problems I have solved from www.CodeEval.com primarily in Java.
 
+## Moderate 
+**Longest Lines** - Finding the 'N' longest lines within a file.	[[Java]](https://github.com/edeng/CodeEval/blob/master/LongestLines.java)
+
+**Mth to Last Element** - Determine the Mth to last element of a list	 [[Java]](https://github.com/edeng/CodeEval/blob/master/MthToLast.java)
+
 
 ## Easy 
 **Prime Palindrome** - Biggest prime palindrome < 1000. [[Java]](https://github.com/edeng/CodeEval/blob/master/PrimePalindrome.java)
@@ -30,8 +35,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Rightmost Char** - Print the position of the rightmost occurrence of a char.	 [[Java]](https://github.com/edeng/CodeEval/blob/master/RightmostChar.java)
 
+**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/NModN.java)
 
-## Moderate 
-**Longest Lines** - Finding the 'N' longest lines within a file.	[[Java]](https://github.com/edeng/CodeEval/blob/master/LongestLines.java)
 
-**Mth to Last Element** - Determine the Mth to last element of a list	 [[Java]](https://github.com/edeng/CodeEval/blob/master/MthToLast.java)
+
