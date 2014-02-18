@@ -1,4 +1,4 @@
-// Eden Ghirmai, 2/16/2014, www.codeeval.com
+// Eden Ghirmai, 1/19/2014, www.codeeval.com
 // Determines the sum of the first 1000 prime numbers.
 
 public class SumOfPrimes {
