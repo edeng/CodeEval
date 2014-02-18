@@ -7,6 +7,8 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Mth to Last Element** - Determine the Mth to last element of a list	 [[Java]](https://github.com/edeng/CodeEval/blob/master/MthToLast.java)
 
+**Counting Primes** - Count the number of primes between two integers. [[Java]](https://github.com/edeng/CodeEval/blob/master/CountingPrimes.java)	
+
 
 ## Easy 
 **Prime Palindrome** - Biggest prime palindrome < 1000. [[Java]](https://github.com/edeng/CodeEval/blob/master/PrimePalindrome.java)
