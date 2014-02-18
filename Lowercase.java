@@ -1,4 +1,4 @@
-// Eden Ghirmai, 2/16/2014, www.codeeval.com
+// Eden Ghirmai, 1/19/2014, www.codeeval.com
 // Given a string, converts it into lowercase
 
 import java.util.*;
