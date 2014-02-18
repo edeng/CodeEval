@@ -1,4 +1,4 @@
-// Eden Ghirmai, 2/16/2014, www.codeeval.com
+// Eden Ghirmai, 1/19/2014, www.codeeval.com
 // Reads a multiple line text file and write the 'N' longest lines to stdout.
 // Where the file to be read is specified on the command line.
 
