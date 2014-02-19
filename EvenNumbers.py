@@ -1,4 +1,4 @@
-# Eden Ghirmai, 2/18/20
+# Eden Ghirmai, 2/18/14, www.codeeval.com
 # Checks input numbers and 
 # determines whether a number is even or not.
 # Prints 1 if the number is even or 0 if the number is odd.
