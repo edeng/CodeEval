@@ -21,7 +21,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Reverse Words** - Reversing an input sequence of words.[[Java]](https://github.com/edeng/CodeEval/blob/master/ReverseWords.java)
 
-**Lowercase** - Lowercase text. [[Java]](https://github.com/edeng/CodeEval/blob/master/Lowercase.java)
+**Lowercase** - Lowercase text. [[Java]](https://github.com/edeng/CodeEval/blob/master/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Lowercase.py)
 
 **Sum of Digits** - Sum of digits comprising a number. [[Java]](https://github.com/edeng/CodeEval/blob/master/SumOfDigits.java)
 
@@ -41,7 +41,9 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Rightmost Char** - Print the position of the rightmost occurrence of a char.	 [[Java]](https://github.com/edeng/CodeEval/blob/master/RightmostChar.java)
 
-**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/NModN.java)
+**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/NModM.py)
+
+**Fizz Buzz** - A simple game involving divisibility tests. [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.py)
 
 
 
