@@ -2,17 +2,11 @@
 import sys
 import math
 
-print int(2.5); 
-
-
-
 def isprime(num):
-	for x in range (3, int(math.sqrt(num)) + 1, 2):
+	for x in range (2, int(num**0.5)+1):
 		if num % x == 0:
 			return False;
 	return True;
-
-print isprime(11); 	
 
 sum = 0; 
 for x in range(1, 1000):
