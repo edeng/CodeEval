@@ -13,6 +13,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Trailing String** - Determine if a string 'B' occurs at the end of string 'A' [[Java]](https://github.com/edeng/CodeEval/blob/master/TrailingString.java) 
 
+**First Non-Repeated Character** - Find the first non repeated character in a string.	[[Java]](https://github.com/edeng/CodeEval/blob/master/FirstNonRepeat.java)
 
 ## Easy 
 **Prime Palindrome** - Biggest prime palindrome < 1000. [[Java]](https://github.com/edeng/CodeEval/blob/master/PrimePalindrome.java)
