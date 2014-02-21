@@ -15,6 +15,8 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **First Non-Repeated Character** - Find the first non repeated character in a string.	[[Java]](https://github.com/edeng/CodeEval/blob/master/FirstNonRepeat.java)
 
+**Pangrams** - Find the missing alphabets	[[Java]](https://github.com/edeng/CodeEval/blob/master/Panagrams.java)
+
 ## Easy 
 **Prime Palindrome** - Biggest prime palindrome < 1000. [[Java]](https://github.com/edeng/CodeEval/blob/master/PrimePalindrome.java)
 
