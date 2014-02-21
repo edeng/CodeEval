@@ -40,7 +40,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Longest Word** - Get the longest word in a sentence. [[Java]](https://github.com/edeng/CodeEval/blob/master/LongestWord.java)
 
-**Odd Numbers** - Print the odd numbers from 1 to 99.	[[Java]](https://github.com/edeng/CodeEval/blob/master/OddNumbers.java)
+**Odd Numbers** - Print the odd numbers from 1 to 99.	[[Java]](https://github.com/edeng/CodeEval/blob/master/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/OddNumbers.py)
 
 **Rightmost Char** - Print the position of the rightmost occurrence of a char.	 [[Java]](https://github.com/edeng/CodeEval/blob/master/RightmostChar.java)
 
