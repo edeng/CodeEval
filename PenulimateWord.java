@@ -1,4 +1,4 @@
-// Eden Ghirmai, 2/15/2014, www.codeeval.com
+// Eden Ghirmai, 2/14/2014, www.codeeval.com
 // Takes in a text file, and prints the next-to-last word for each line
 
 import java.io.*;
