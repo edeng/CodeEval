@@ -22,7 +22,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Sum of Prime** - Sum of first 1000 primes. [[Java]](https://github.com/edeng/CodeEval/blob/master/SumOfPrimes.java)
 
-**Reverse Words** - Reversing an input sequence of words.[[Java]](https://github.com/edeng/CodeEval/blob/master/ReverseWords.java)
+**Reverse Words** - Reversing an input sequence of words.[[Java]](https://github.com/edeng/CodeEval/blob/master/ReverseWords.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/ReverseWords.py)
 
 **Lowercase** - Lowercase text. [[Java]](https://github.com/edeng/CodeEval/blob/master/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Lowercase.py)
 
