@@ -1,3 +1,6 @@
+# Eden Ghirmai, 2/20/2014, www.codeeval.com
+# Reverses the word of an input sentence 
+
 import sys
 test_cases = open(sys.argv[1], 'r')
 for test in test_cases:
