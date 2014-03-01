@@ -1,4 +1,4 @@
-// Eden Ghirmai, 2/16/2014, www.codeeval.com
+// Eden Ghirmai, 3/01/2014, www.codeeval.com
 // Given a string of words and digits divided by comma
 // Separates words with digits without changing the order elements
 
