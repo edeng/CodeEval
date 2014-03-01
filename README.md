@@ -48,5 +48,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Fizz Buzz** - A simple game involving divisibility tests. [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FizzBuzz.py)
 
+**Mixed Content** - Separate words with digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MixedContent.java)
+
 
 
