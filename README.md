@@ -54,3 +54,4 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **The Major Element** - Find the major element in a sequence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/TheMajorElement.java)
 
+**Unique Elements** - Extract unique list from a sorted list of numbers. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/UniqueElements.java) 
