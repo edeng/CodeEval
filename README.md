@@ -52,4 +52,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) 
 
+**The Major Element** - Find the major element in a sequence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/TheMajorElement.java)
 
