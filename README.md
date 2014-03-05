@@ -56,4 +56,6 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Unique Elements** - Extract unique list from a sorted list of numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/UniqueElements.java) 
 
-**Simple Sorting** - Sort several numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SimpleSorting.java) 
+**Simple Sorting** - Sort several numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SimpleSorting.java)
+
+**Calculate Distance** - Calculate a distance between two points [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CalculateDistance.java)
