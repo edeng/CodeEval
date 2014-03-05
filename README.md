@@ -59,3 +59,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Simple Sorting** - Sort several numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SimpleSorting.java)
 
 **Calculate Distance** - Calculate a distance between two points [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CalculateDistance.java)
+
+**Sum of Integers from File** Print the sum of integers read from a file. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.py)
