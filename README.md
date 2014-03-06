@@ -61,3 +61,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Calculate Distance** - Calculate a distance between two points [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CalculateDistance.java)
 
 **Sum of Integers from File** - Print the sum of integers read from a file. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.py)
+
+**Fibonacci Series** - Print out the nth fibonacci number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Fibonacci.java)
+
+**File Size** - Print the file size in bytes. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.py)
