@@ -65,3 +65,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Fibonacci Series** - Print out the nth fibonacci number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Fibonacci.java)
 
 **File Size** - Print the file size in bytes. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.py)
+
+**Lowest Unique Number** - Find the lowest unique number in a set [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LowestUniqueNumber.java)
