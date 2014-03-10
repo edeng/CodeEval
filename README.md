@@ -13,7 +13,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Trailing String** - Determine if a string 'B' occurs at the end of string 'A' [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/TrailingString.java) 
 
-**First Non-Repeated Character** - Find the first non repeated character in a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/FirstNonRepeat.java)
+**First Non-Repeated Character** - Find the first non repeated character in a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/FirstNonRepeat.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Moderate/FirstNonRepeat.py)
 
 **Pangrams** - Find the missing alphabets	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/Panagrams.java)
 
@@ -42,7 +42,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Odd Numbers** - Print the odd numbers from 1 to 99	[[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.py)
 
-**Rightmost Char** - Print the position of the rightmost occurrence of a char	 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java)
+**Rightmost Char** - Print the position of the rightmost occurrence of a char	 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.py)
 
 **N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
 
@@ -71,3 +71,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Word to Digit** - Substitute words to digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/WordToDigit.java) 
 
 **Armstrong Numbers** - Determine if a number is an armstrong number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ArmstrongNumbers.java)
+
+**Multiples of a Number** - Multiples of a number greater than another number. [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py)
