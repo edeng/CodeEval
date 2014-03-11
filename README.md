@@ -79,3 +79,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Find a Writer** - Find a famous writer in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/FindAWriter.java) 
 
 **Split The Number** - Evaluate the number according to the pattern [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SplitTheNumber.java)
+
+**Hidden Digits** - Try to look behind the scenes [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HiddenDigits.java) 
