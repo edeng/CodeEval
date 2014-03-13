@@ -1,31 +1,65 @@
 Easy
 ========
-**Prime Palindrome** - Biggest prime palindrome < 1000. [[Java]](https://github.com/edeng/CodeEval/blob/master/PrimePalindrome.java)
+**Prime Palindrome** - Biggest prime palindrome < 1000 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/PrimePalindrome.java)
 
-**Sum of Prime** - Sum of first 1000 primes. [[Java]](https://github.com/edeng/CodeEval/blob/master/SumOfPrimes.java)
+**Sum of Prime** - Sum of first 1000 primes [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfPrimes.java)
 
-**Reverse Words** - Reversing an input sequence of words.[[Java]](https://github.com/edeng/CodeEval/blob/master/ReverseWords.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/ReverseWords.py)
+**Reverse Words** - Reversing an input sequence of words [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ReverseWords.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/Easy/ReverseWords.py)
 
-**Lowercase** - Lowercase text. [[Java]](https://github.com/edeng/CodeEval/blob/master/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Lowercase.py)
+**Lowercase** - Lowercase text [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.py)
 
-**Sum of Digits** - Sum of digits comprising a number. [[Java]](https://github.com/edeng/CodeEval/blob/master/SumOfDigits.java)
+**Sum of Digits** - Sum of digits comprising a number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.java)
 
-**Multiplication Tables** - Print out the grade school multiplication table upto 12*12. [[Java]](https://github.com/edeng/CodeEval/blob/master/MultiplicationTable.java)
+**Multiplication Tables** - Print out the grade school multiplication table upto 12*12 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplicationTable.java)
 
-**Penultimate Word** - Find the next-to-last word. [[Java]](https://github.com/edeng/CodeEval/blob/master/PenulimateWord.java)
+**Penultimate Word** - Find the next-to-last word [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/PenulimateWord.java)
 
-**Capitalize Words** - Capitalize words in a sentence. [[Java]](https://github.com/edeng/CodeEval/blob/master/CapitalizeWords.java)
+**Capitalize Words** - Capitalize words in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.java)
 
-**Swap Case** - Swap case in a string. [[Java]](https://github.com/edeng/CodeEval/blob/master/SwapCase.java)
+**Swap Case** - Swap case in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SwapCase.java)
 
-**Even Numbers** - Determine if a number is even or not.	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/EvenNumbers.py)
+**Even Numbers** - Determine if a number is even or not	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/Easy/EvenNumbers.py)
 
-**Longest Word** - Get the longest word in a sentence. [[Java]](https://github.com/edeng/CodeEval/blob/master/LongestWord.java)
+**Longest Word** - Get the longest word in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.java)
 
-**Odd Numbers** - Print the odd numbers from 1 to 99.	[[Java]](https://github.com/edeng/CodeEval/blob/master/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/OddNumbers.py)
+**Odd Numbers** - Print the odd numbers from 1 to 99	[[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.py)
 
-**Rightmost Char** - Print the position of the rightmost occurrence of a char.	 [[Java]](https://github.com/edeng/CodeEval/blob/master/RightmostChar.java)
+**Rightmost Char** - Print the position of the rightmost occurrence of a char	 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.py)
 
-**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/NModM.py)
+**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
 
-**Fizz Buzz** - A simple game involving divisibility tests. [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.py)
+**Fizz Buzz** - A simple game involving divisibility tests [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FizzBuzz.py)
+
+**Mixed Content** - Separate words with digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MixedContent.java)
+
+**Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) 
+
+**The Major Element** - Find the major element in a sequence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/TheMajorElement.java)
+
+**Unique Elements** - Extract unique list from a sorted list of numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/UniqueElements.java) 
+
+**Simple Sorting** - Sort several numbers [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SimpleSorting.java)
+
+**Calculate Distance** - Calculate a distance between two points [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CalculateDistance.java)
+
+**Sum of Integers from File** - Print the sum of integers read from a file. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfIntegersFromFile.py)
+
+**Fibonacci Series** - Print out the nth fibonacci number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Fibonacci.java)
+
+**File Size** - Print the file size in bytes. [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FileSize.py)
+
+**Lowest Unique Number** - Find the lowest unique number in a set [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LowestUniqueNumber.java)
+
+**Word to Digit** - Substitute words to digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/WordToDigit.java) 
+
+**Armstrong Numbers** - Determine if a number is an armstrong number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ArmstrongNumbers.java)
+
+**Multiples of a Number** - Multiples of a number greater than another number [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py)
+
+**Compressed Sequence** - Compress a sequence using a simple algorithm [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CompressedSequence.java)
+
+**Find a Writer** - Find a famous writer in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/FindAWriter.java) 
+
+**Split The Number** - Evaluate the number according to the pattern [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SplitTheNumber.java)
+
+**Hidden Digits** - Try to look behind the scenes [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HiddenDigits.java) 
