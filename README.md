@@ -72,7 +72,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Armstrong Numbers** - Determine if a number is an armstrong number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ArmstrongNumbers.java)
 
-**Multiples of a Number** - Multiples of a number greater than another number [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py)
+**Multiples of a Number** - Multiples of a number greater than another number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.java)   [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py) 
 
 **Compressed Sequence** - Compress a sequence using a simple algorithm [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CompressedSequence.java)
 
