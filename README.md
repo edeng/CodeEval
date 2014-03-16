@@ -9,7 +9,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Counting Primes** - Count the number of primes between two integers [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/CountingPrimes.java)	
 
-**Remove Characters** - Delete specific characters from a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/RemoveCharacters.java) 
+**Remove Characters** - Delete specific characters from a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/RemoveCharacters.java) https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.py
 
 **Trailing String** - Determine if a string 'B' occurs at the end of string 'A' [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/TrailingString.java) 
 
@@ -26,7 +26,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Lowercase** - Lowercase text [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.py)
 
-**Sum of Digits** - Sum of digits comprising a number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.java)
+**Sum of Digits** - Sum of digits comprising a number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.py) 
 
 **Multiplication Tables** - Print out the grade school multiplication table upto 12*12 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplicationTable.java)
 
