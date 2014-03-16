@@ -8,7 +8,7 @@ Easy
 
 **Lowercase** - Lowercase text [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/Lowercase.py)
 
-**Sum of Digits** - Sum of digits comprising a number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.java)
+**Sum of Digits** - Sum of digits comprising a number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.py) 
 
 **Multiplication Tables** - Print out the grade school multiplication table upto 12*12 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplicationTable.java)
 
@@ -54,7 +54,7 @@ Easy
 
 **Armstrong Numbers** - Determine if a number is an armstrong number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ArmstrongNumbers.java)
 
-**Multiples of a Number** - Multiples of a number greater than another number [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py)
+**Multiples of a Number** - Multiples of a number greater than another number [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.java)   [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py) 
 
 **Compressed Sequence** - Compress a sequence using a simple algorithm [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CompressedSequence.java)
 
