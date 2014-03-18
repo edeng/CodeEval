@@ -9,7 +9,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Counting Primes** - Count the number of primes between two integers [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/CountingPrimes.java)	
 
-**Remove Characters** - Delete specific characters from a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/RemoveCharacters.java) https://github.com/edeng/CodeEval/blob/master/Easy/SumOfDigits.py
+**Remove Characters** - Delete specific characters from a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/RemoveCharacters.java) 
 
 **Trailing String** - Determine if a string 'B' occurs at the end of string 'A' [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/TrailingString.java) 
 
