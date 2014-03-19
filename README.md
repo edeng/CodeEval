@@ -44,7 +44,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Rightmost Char** - Print the position of the rightmost occurrence of a char	 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.py)
 
-**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
+**N Mod M** - Determine the modulus (without the modulus operator) [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
 
 **Fizz Buzz** - A simple game involving divisibility tests [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FizzBuzz.py)
 
