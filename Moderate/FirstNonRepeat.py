@@ -1,4 +1,4 @@
-# Eden Ghirmai, 3/9/14, www.codeeval.com
+# Eden Ghirmai, 3/09/14, www.codeeval.com
 # Finds the first non repeated character in a string.
 
 import sys
