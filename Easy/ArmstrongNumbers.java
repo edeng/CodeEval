@@ -1,7 +1,7 @@
 // Eden Ghirmai, 3/09/2014, www.codeeval.com
 // An Armstrong number is an n-digit number that is equal to the 
 // sum of the n'th powers of its digits. 
-// Determines if the input numbers are Armstrong numbers.
+// determines if the input numbers are Armstrong numbers.
 
 import java.io.*;
 import java.util.*; 
