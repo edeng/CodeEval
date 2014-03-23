@@ -38,7 +38,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Even Numbers** - Determine if a number is even or not	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/Easy/EvenNumbers.py)
 
-**Longest Word** - Get the longest word in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.java)
+**Longest Word** - Get the longest word in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.py)
 
 **Odd Numbers** - Print the odd numbers from 1 to 99	[[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.py)
 
