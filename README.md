@@ -32,7 +32,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Penultimate Word** - Find the next-to-last word [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/PenulimateWord.java)
 
-**Capitalize Words** - Capitalize words in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.java)
+**Capitalize Words** - Capitalize words in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.py)
 
 **Swap Case** - Swap case in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SwapCase.java)
 
