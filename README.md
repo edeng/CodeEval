@@ -50,7 +50,7 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 
 **Mixed Content** - Separate words with digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MixedContent.java)
 
-**Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) 
+**Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.py)
 
 **The Major Element** - Find the major element in a sequence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/TheMajorElement.java)
 
