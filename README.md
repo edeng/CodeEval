@@ -81,3 +81,5 @@ Problems I have solved from www.CodeEval.com primarily in Java.
 **Split The Number** - Evaluate the number according to the pattern [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SplitTheNumber.java)
 
 **Hidden Digits** - Try to look behind the scenes [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HiddenDigits.java) 
+
+**Bit Positions** - Bits in position x,y are same or different [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/BitPositions.java)
