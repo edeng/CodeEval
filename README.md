@@ -1,6 +1,6 @@
 CodeEval
 ========
-Problems I have solved from www.CodeEval.com primarily in Java and python 
+Problems I have solved from www.CodeEval.com primarily in Java and Python. 
 
 ## Moderate 
 **Longest Lines** - Finding the 'N' longest lines within a file	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/LongestLines.java)
