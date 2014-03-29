@@ -85,3 +85,5 @@ Problems I have solved from www.CodeEval.com primarily in Java and Python.
 **Bit Positions** - Bits in position x,y are same or different [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/BitPositions.java)
 
 **Hex to Decimal** - Convert a hex number to it's decimal equivalent [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HexToDecimal.java)
+
+**Self Describing Numbers** - Determine if a number is a self-describing number or not  [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SelfDescribingNumbers.java)
