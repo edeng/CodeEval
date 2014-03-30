@@ -88,4 +88,4 @@ Problems I have solved from www.CodeEval.com primarily in Java and Python.
 
 **Self Describing Numbers** - Determine if a number is a self-describing number or not  [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SelfDescribingNumbers.java)
 
-**Roman Numearls** - Convert a cardinal number to a Roman numeral [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RomanNumerals.java)
+**Roman Numerals** - Convert a cardinal number to a Roman numeral [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RomanNumerals.java)
