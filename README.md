@@ -89,3 +89,5 @@ Problems I have solved from www.CodeEval.com primarily in Java and Python.
 **Self Describing Numbers** - Determine if a number is a self-describing number or not  [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SelfDescribingNumbers.java)
 
 **Roman Numerals** - Convert a cardinal number to a Roman numeral [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RomanNumerals.java)
+
+**Shortest Repetition** - Find the shortest repetition in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ShortestRepetition.java)
