@@ -1,4 +1,5 @@
 // Eden Ghirmai, 3/24/2014, www.codeeval.com
+// converts the given hex to decimal form
 
 import java.io.*;
 import java.util.*; 
