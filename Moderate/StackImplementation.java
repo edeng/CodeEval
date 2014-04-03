@@ -1,7 +1,11 @@
+// Eden Ghirmai, 4/02/2014, www.codeeval.com
+// Stack implementation for integers, including pop and push functions
+// given a series of integers to push, then prints out every alternated popped value 
+
 import java.io.*;
 import java.util.*; 
 
-public class Main {
+public class StackImplementation {
     private static int[] storage;
     private static int size; 
     
