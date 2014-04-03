@@ -17,6 +17,8 @@ Problems I have solved from www.CodeEval.com primarily in Java and Python.
 
 **Pangrams** - Find the missing alphabets	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/Panagrams.java)
 
+**Stack Implementation** - Implement a stack interface [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/StackImplementation.java)
+
 ## Easy 
 **Prime Palindrome** - Biggest prime palindrome < 1000 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/PrimePalindrome.java)
 
