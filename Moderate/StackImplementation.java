@@ -11,8 +11,8 @@ public class StackImplementation {
     
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File(args[0]);
-		Scanner in = new Scanner(file);
-		while(in.hasNextLine()) {
+	Scanner in = new Scanner(file);
+	while(in.hasNextLine()) {
             storage = new int[10]; 
             Scanner lineScan = new Scanner(in.nextLine()); 
             while (lineScan.hasNextInt()) {
@@ -33,7 +33,7 @@ public class StackImplementation {
             }
             
             System.out.println(result.trim()); 
-		}
+	}
     }
     
     public static int pop() {
