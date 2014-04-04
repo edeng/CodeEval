@@ -14,25 +14,25 @@ Easy
 
 **Penultimate Word** - Find the next-to-last word [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/PenulimateWord.java)
 
-**Capitalize Words** - Capitalize words in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.java)
+**Capitalize Words** - Capitalize words in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/CapitalizeWords.py)
 
 **Swap Case** - Swap case in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SwapCase.java)
 
 **Even Numbers** - Determine if a number is even or not	[[Java]](https://github.com/edeng/CodeEval/blob/master/EvenNumbers.java) [[Python]] (https://github.com/edeng/CodeEval/blob/master/Easy/EvenNumbers.py)
 
-**Longest Word** - Get the longest word in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.java)
+**Longest Word** - Get the longest word in a sentence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/LongestWord.py)
 
 **Odd Numbers** - Print the odd numbers from 1 to 99	[[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/OddNumbers.py)
 
 **Rightmost Char** - Print the position of the rightmost occurrence of a char	 [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.py)
 
-**N Mod M** - Determine the modulus (without the modulus operator). [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
+**N Mod M** - Determine the modulus (without the modulus operator) [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/NModN.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/NModM.py)
 
 **Fizz Buzz** - A simple game involving divisibility tests [[Java]](https://github.com/edeng/CodeEval/blob/master/FizzBuzz.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/FizzBuzz.py)
 
 **Mixed Content** - Separate words with digits [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MixedContent.java)
 
-**Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) 
+**Multiply Lists** - Mulitply elements in 2 lists [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Easy/MultiplyLists.py)
 
 **The Major Element** - Find the major element in a sequence [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/TheMajorElement.java)
 
@@ -63,3 +63,13 @@ Easy
 **Split The Number** - Evaluate the number according to the pattern [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SplitTheNumber.java)
 
 **Hidden Digits** - Try to look behind the scenes [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HiddenDigits.java) 
+
+**Bit Positions** - Bits in position x,y are same or different [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/BitPositions.java)
+
+**Hex to Decimal** - Convert a hex number to it's decimal equivalent [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/HexToDecimal.java)
+
+**Self Describing Numbers** - Determine if a number is a self-describing number or not  [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/SelfDescribingNumbers.java)
+
+**Roman Numerals** - Convert a cardinal number to a Roman numeral [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RomanNumerals.java)
+
+**Shortest Repetition** - Find the shortest repetition in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ShortestRepetition.java)
