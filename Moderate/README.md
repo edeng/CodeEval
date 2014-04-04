@@ -14,3 +14,5 @@ Moderate
 **First Non-Repeated Character** - Find the first non repeated character in a string	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/FirstNonRepeat.java) [[Python]](https://github.com/edeng/CodeEval/blob/master/Moderate/FirstNonRepeat.py)
 
 **Pangrams** - Find the missing alphabets	[[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/Panagrams.java)
+
+**Stack Implementation** - Implement a stack interface [[Java]](https://github.com/edeng/CodeEval/blob/master/Moderate/StackImplementation.java)
