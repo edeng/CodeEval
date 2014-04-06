@@ -38,6 +38,15 @@ public class StackImplementation {
     
     public static int pop() {
         size--; 
+        
+        if (((double)size / storage.length) <= 0.25) {
+		double[] temp = storage; 
+		storage = new double[storage.length / 2]; 
+		for (int i = 0; i < size; i++) {
+			storage[i] = temp[i]; 
+		}
+	}		
+		
         return storage[size]; 
     }
     
