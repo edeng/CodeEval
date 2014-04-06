@@ -93,3 +93,5 @@ Problems I have solved from www.CodeEval.com primarily in Java and Python.
 **Roman Numerals** - Convert a cardinal number to a Roman numeral [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/RomanNumerals.java)
 
 **Shortest Repetition** - Find the shortest repetition in a string [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/ShortestRepetition.java)
+
+**Query Board** - Set and get values from a matrix using tiny DSL [[Java]](https://github.com/edeng/CodeEval/blob/master/Easy/QueryBoard.java)
