@@ -1,4 +1,4 @@
-// Eden Ghirmai, 4/06/2014, www.codeeval.com
+// Eden Ghirmai, 04/06/2014, www.codeeval.com
 // the game starts with a board and allows you to modify the board
 // by changing rows or columns, and accessing those values
 
